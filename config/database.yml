@@ -19,11 +19,11 @@ test:
   timeout: 5000
 
 production:
-  adapter: postgresql
+  adapter: mysql2
   encoding: unicode
-  host: ec2-54-217-215-85.eu-west-1.compute.amazonaws.com
-  database: db0nknfkj4fcti
-  username: odlsuhspmirvas
-  password: VVhDrQyID2md07n2X-lqOjt8IW
+  host: localhost
+  database: nextbyte_davisi
+  username: nextbyte_davisi
+  password: HBsZEvt7AiF
   pool: 5
   timeout: 5000
