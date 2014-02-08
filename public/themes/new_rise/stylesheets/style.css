@@ -140,7 +140,7 @@ ul{
 }
 #left p.text1{
 	display:block;
-	width:385px;
+	width:583px;
 	font:normal 13px/18px  "Trebuchet MS", Arial, Helvetica, sans-serif;
 	color:#63562E;
 	background-color:#F8EFD3;
@@ -150,7 +150,7 @@ ul{
 }
 #left p.text2{
 	display:block;
-	width:385px;
+	width:583px;
 	font:normal 13px/18px  "Trebuchet MS", Arial, Helvetica, sans-serif;
 	color:#63562E;
 	background-color:#F8EFD3;
@@ -164,7 +164,7 @@ ul{
 }
 #left p.rm{
 	display:block;
-	width:370px;
+	width:558px;
 	height:19px;
 	margin:0 0 4px 0;
 	font-size:0;
@@ -194,7 +194,7 @@ ul{
 	float:left;
 }
 #left p.event{
-	width:354px;
+	width:542px;
 	background:url(/themes/new_rise/images/event_bg.gif) 0 11px no-repeat #F8EFD3;
 	padding:11px 0 0 20px;
 	margin:0 0 15px 0;
@@ -204,7 +204,7 @@ ul{
 }
 #left p.rm2{
 	display:block;
-	width:370px;
+	width:558px;
 	height:14px;
 	font-size:0;
 	margin:0 0 4px 0;
