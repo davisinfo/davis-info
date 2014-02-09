@@ -27,7 +27,7 @@ ul{
 	width:778px;
 	height:49px;
 	background:url(/themes/new_rise/images/header.jpg) 0 0 no-repeat;
-	padding:385px 0 0 0;
+	padding:297px 0 0 0;
 	margin:0 auto;
 	position:relative;
 }
@@ -71,7 +71,7 @@ ul{
 	padding:0 11px 0 11px;
 	background-color:#FFFFEF;
 	color:#523500;
-	font:bold 11px/19px  "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font:bold 14px/19px  "Trebuchet MS", Arial, Helvetica, sans-serif;
 	text-decoration:none;
 	margin:0 1px 0 0;
 	float:left;
@@ -88,7 +88,7 @@ ul{
 	padding:0 11px 0 11px;
 	background:url(/themes/new_rise/images/nav_hover.gif) 0 0 repeat-x #FFFEEF;
 	color:#fff;
-	font:bold 11px/19px  "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font:bold 14px/19px  "Trebuchet MS", Arial, Helvetica, sans-serif;
 	text-decoration:none;
 }
 /*------------------------------------------------header end---------------------*/
@@ -101,14 +101,14 @@ ul{
 }
 #body p.top{
 	display:block;
-	background:url(/themes/new_rise/images/body_top_bg.gif) 0 0 no-repeat;
+	/*background:url(/themes/new_rise/images/body_top_bg.gif) 0 0 no-repeat;*/
 	width:631px;
 	height:75px;
 	float:left;
 }
 #body p.bot{
 	display:block;
-	background:url(/themes/new_rise/images/body_bottom_bg.gif) 0 0 no-repeat;
+	/*background:url(/themes/new_rise/images/body_bottom_bg.gif) 0 0 no-repeat;*/
 	width:631px;
 	height:78px;
 	float:left;
